@@ -3,34 +3,50 @@
 
 <span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a></span>
 
-Visão geral da interação do usuário pelas telas do sistema e protótipo interativo das telas com as funcionalidades que fazem parte do sistema (wireframes).
+Neste item, serão apresentadas, com maiores detalhes, as telas da aplicação, o que será feito por meio de tópicos, conforme descrito a seguir. São eles:
 
- Apresente as principais interfaces da plataforma. Discuta como ela foi elaborada de forma a atender os requisitos funcionais, não funcionais e histórias de usuário abordados nas <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a>.
+Tela - introdução, login, perfil/busca, grupo, evento/inscrito. 
 
-## Diagrama de Fluxo
+Inicialmente, podemos analisar a construção da proposta. Como objetivamos apresentar uma proposta de calmaria e um aspecto, optamos por cores relacionado
 
-O diagrama apresenta o estudo do fluxo de interação do usuário com o sistema interativo e  muitas vezes sem a necessidade do desenho do design das telas da interface. Isso permite que o design das interações seja bem planejado e gere impacto na qualidade no design do wireframe interativo que será desenvolvido logo em seguida.
+com a cor purpura e tons de salmão, cor que incentiva a conversa, conforme a psicologia afirma:
 
-O diagrama de fluxo pode ser desenvolvido com “boxes” que possuem internamente a indicação dos principais elementos de interface - tais como menus e acessos - e funcionalidades, tais como editar, pesquisar, filtrar, configurar - e a conexão entre esses boxes a partir do processo de interação. Você pode ver mais explicações e exemplos https://www.lucidchart.com/blog/how-to-make-a-user-flow-diagram.
+“Além disso, a sensação de calmaria e tranquilidade também estão relacionados com o roxo. Por essa razão, vários temas espirituais e ligados à fé são representados com esta cor.”
 
-![Exemplo de Diagrama de Fluxo] ![WhatsApp Image 2022-03-28 at 12 09 26](https://user-images.githubusercontent.com/84060551/160507095-d475de30-7287-413d-9d35-82544fc5b1ea.jpeg)
+“O roxo ainda representa a imagem do sucesso, da nobreza e da riqueza.”
 
-As referências abaixo irão auxiliá-lo na geração do artefato “Diagramas de Fluxo”.
+significado da cor salmão, além disso, essa tonalidade transmite um senso de abundância e também incentiva a conversa dentro de um espaço.
 
-> **Links Úteis**:
-> - [Fluxograma online: seis sites para fazer gráfico sem instalar nada | Produtividade | TechTudo](https://www.techtudo.com.br/listas/2019/03/fluxograma-online-seis-sites-para-fazer-grafico-sem-instalar-nada.ghtml)
+A cor salmão está associada à felicidade, por isso muitas pessoas gostam de fazer a decoração no quarto de bebê com os tons de salmão.
 
-## Wireframes
+Assim, segue abaixo a demonstração das paletas de cores com base no que esta sendo proposto para a construção do aplicativo.
 
-![Exemplo de Wireframe](img/wireframe-example.png)
+Púrpura :  ![Púrpuras](https://user-images.githubusercontent.com/84060551/160533054-cbff8a47-558c-419a-b9f4-45ea009644ba.png)  Salmão : ![salmão](https://user-images.githubusercontent.com/84060551/160533947-438b9ff0-d129-4bb6-a65c-ad97a25dccde.png)
 
-São protótipos usados em design de interface para sugerir a estrutura de um site web e seu relacionamentos entre suas páginas. Um wireframe web é uma ilustração semelhante do layout de elementos fundamentais na interface.
- 
-> **Links Úteis**:
-> - [Protótipos vs Wireframes](https://www.nngroup.com/videos/prototypes-vs-wireframes-ux-projects/)
-> - [Ferramentas de Wireframes](https://rockcontent.com/blog/wireframes/)
-> - [MarvelApp](https://marvelapp.com/developers/documentation/tutorials/)
-> - [Figma](https://www.figma.com/)
-> - [Adobe XD](https://www.adobe.com/br/products/xd.html#scroll)
-> - [Axure](https://www.axure.com/edu) (Licença Educacional)
-> - [InvisionApp](https://www.invisionapp.com/) (Licença Educacional)
+
+
+Fluxograma do Projeto ![WhatsApp Image 2022-03-28 at 12 09 26](https://user-images.githubusercontent.com/84060551/160507095-d475de30-7287-413d-9d35-82544fc5b1ea.jpeg)
+
+
+Introdução :  
+
+![WhatsApp Image 2022-03-27 at 21 54 32 (1)](https://user-images.githubusercontent.com/84060551/160534363-8fcdad9d-9ee1-4a30-a941-6c90eaa02937.jpeg)
+
+Login: 
+
+![WhatsApp Image 2022-03-27 at 21 54 32 (2)](https://user-images.githubusercontent.com/84060551/160534837-b6e88193-e960-4ea1-831d-b51d56fe7d67.jpeg)
+
+Perfil/busca:
+
+![WhatsApp Image 2022-03-27 at 21 54 32 (3)](https://user-images.githubusercontent.com/84060551/160534957-c18a793b-64ae-4c17-9dc9-edcfd19d5d6c.jpeg)
+
+Grupo: 
+
+![WhatsApp Image 2022-03-27 at 21 54 32 (4)](https://user-images.githubusercontent.com/84060551/160535556-c2a87373-26a2-4af2-8039-b5f46150de7a.jpeg)
+
+Evento/inscrito:
+
+![WhatsApp Image 2022-03-27 at 21 54 32 (5)](https://user-images.githubusercontent.com/84060551/160535745-b1a4ee28-4c4d-4fb9-ba61-adf969c299cc.jpeg)
+
+
+
