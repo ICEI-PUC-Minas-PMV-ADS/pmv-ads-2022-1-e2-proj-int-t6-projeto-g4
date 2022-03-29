@@ -47,11 +47,10 @@
      <tr><td><b>Frustrações</b></td>
      <td>
      <ul>
-      <li>Gastar muito tempo procurando eventos interessantes.</li><br>
-      <li> Não ter a possibilidade de comentar ou dar sugestões sobre o evento.</li>
+      <li>Gastar muito tempo procurando eventos gratuitos.</li><br>
+      <li> Não ter a possibilidade de comentar ou dar sugestões sobre o aplicativo.</li>
      </ul></td>
-      <td><ul><li>Ter o seu evento divulgado com informações incorretas e discretas que não chamam a atenção do cliente;</li>
-       <li>Não ter acesso aos comentários, sugestões ou reclamações que os clientes realizam sobre o evento. </li>
+      <td><ul><li>Pesquisar quais tipos de eventos tem disponivel. </li>
      </ul> </td>
 <tr><td><b>Hobbies/História</b></td>
      <td>
