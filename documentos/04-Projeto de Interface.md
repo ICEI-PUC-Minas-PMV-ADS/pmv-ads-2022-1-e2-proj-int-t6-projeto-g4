@@ -7,7 +7,7 @@ Neste item, serão apresentadas, com maiores detalhes, as telas da aplicação, 
 
 Tela - introdução, login, perfil/busca, grupo, evento/inscrito. 
 
-Inicialmente, podemos analisar a construção da proposta. Como objetivamos apresentar uma proposta de calmaria e um aspecto, optamos por cores relacionado
+Inicialmente, podemos analisar a construção da proposta. Como objetivamos apresentar um ambienete alegre, comunicativo mas sem esquecer a outra face melancôlica de nobreza teatral optamos por cores relacionado
 
 com a cor purpura e tons de salmão, cor que incentiva a conversa, conforme a psicologia afirma:
 
