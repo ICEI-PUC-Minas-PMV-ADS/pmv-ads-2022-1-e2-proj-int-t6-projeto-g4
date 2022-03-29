@@ -8,8 +8,8 @@
  <table>
   <thead>
         <th></th>
-        <th>Renato Vieira</th>
-        <th>Patrícia Campos</th>
+        <th>Joao Tosco</th>
+        <th>Larissa Fernandes</th>
 
   </thead>
 
@@ -50,7 +50,8 @@
       <li>Gastar muito tempo procurando eventos gratuitos.</li><br>
       <li> Não ter a possibilidade de comentar ou dar sugestões sobre o aplicativo.</li>
      </ul></td>
-      <td><ul><li>Pesquisar quais tipos de eventos tem disponivel. </li>
+      <td><ul><li>Pesquisar quais tipos de eventos tem disponíveis na região. </li>
+              <li>Ter acesso às informações do evento.</li>
      </ul> </td>
 <tr><td><b>Hobbies/História</b></td>
      <td>
