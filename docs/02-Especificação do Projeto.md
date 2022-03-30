@@ -203,17 +203,17 @@
 
    <tr>
     <td><b>RF-02</b></td>
-    <td>O site deve disponibilizar ao usuário uma ferramenta de busca por atividades, eventos e localidades</td>
+    <td>O site deve disponibilizar ao usuário um campo busca com filtro por data, hora e tipos eventos</td>
     <td>Alta</td>
    </tr>
    <tr>
     <td><b>RF-03</b></td>
-    <td>O site deve enviar mensagem ao usuário quando algum evento ou atividade em sua área local ou região selecionada for divulgado</td>
+    <td>O site deve notificar o usuário quando algum evento ou atividade em sua área local ou região selecionada for divulgado</td>
     <td>Média</td>
    </tr>
    <tr>
     <td><b>RF-04</b></td>
-    <td>O site deve disponibilizar avaliações e comentários referente aos eventos, feitos por usuários já atendidos. </td>
+    <td>O site deve disponibilizar um campo para comentários e avaliacoes de cada evento para os usuarios. </td>
     <td>Alta</td></tr>
     <tr><td><b>RF-05</b></td>
     <td>O site deve informar ao usuário o local, faixa etária e valor do evento/atividade.</td>
@@ -241,7 +241,10 @@
    </tr>
     <tr>
     <td><b>RF-10</b></td>
-    <td>O site deve disponibilizar ao usuário um campo para comentários e avaliações. </td>
+    <td>O site deve disponibilizar ao usuário um campo reclamacoes sobre o evento. </td>
+    <td>Alta</td>
+    <td><b>RF-11</b></td>
+    <td>Todos os eventos postados no site devem ter o mesmo padrao de fonte e tamanho. </td>
     <td>Alta</td>
    </tr>
   </tbody>
