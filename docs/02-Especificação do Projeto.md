@@ -8,6 +8,8 @@
  <table>
   <thead>
         <th></th>
+   <img src = "img/renato.jpeg" alt="drawing" width="200"/>
+   <img src = "img/patricia.jpeg" alt="drawing" width="200"/>
         <th>Renato Vieira</th>
         <th>Patrícia Campos</th>
 
