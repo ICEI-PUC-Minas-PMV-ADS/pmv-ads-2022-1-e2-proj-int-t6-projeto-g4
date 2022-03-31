@@ -233,6 +233,8 @@
     <td><b>RF-10</b></td>
     <td>O site deve disponibilizar ao usuário um campo reclamacoes sobre o evento. </td>
     <td>Alta</td>
+   </tr>
+   <tr>
     <td><b>RF-11</b></td>
     <td>Todos os eventos postados no site devem ter o mesmo padrao de fonte e tamanho. </td>
     <td>Alta</td>
