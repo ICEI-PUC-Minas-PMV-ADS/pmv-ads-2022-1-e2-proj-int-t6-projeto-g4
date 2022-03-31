@@ -8,11 +8,11 @@
  <table>
   <thead>
         <th></th>
-    <tr><td><b> <img src = "img/renato.jpeg" alt="drawing" width="200"/> </b></td>
+    <tr><td><b> <img src = "img/renato.jpeg" alt="drawing" width="100"/> </b></td>
         <th>Renato Vieira</th>
      
-<tr><td><b> <img src = "img/patricia.jpeg" alt="drawing" width="200"/> </b></td>
-        <td><th>Patrícia Campos</th></td>
+<th> <img src = "img/patricia.jpeg" alt="drawing" width="100"/> </th>
+        <th>Patrícia Campos</th>
      
 
   </thead>
