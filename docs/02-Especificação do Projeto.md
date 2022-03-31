@@ -57,13 +57,6 @@
       <td><ul><li>Ter o seu evento divulgado com informações incorretas e discretas que não chamam a atenção do cliente;</li>
        <li>Não ter acesso aos comentários, sugestões ou reclamações que os clientes realizam sobre o evento. </li>
      </ul> </td>     
-<tr><td><b>Objetivos</b></td>
-     <td>
-     <ul>
-      <li> Ter disponível um site gratuito com todas as programações culturais e de entretenimento atualizado e de fácil acesso.  </li>
-     </ul></td>
-      <td><ul><li>Ter disponível um site gratuito ou de baixo custo para cadastrar a programação que se deseja divulgar para os clientes, sendo este canal muito acessado pela comunidade, de fácil uso, intuitivo, e que atrai a atenção do usuário para a programação oferecida. </li>
-     </ul> </td>
 <tr><td><b>Hobbies/História</b></td>
      <td>
      <ul>
@@ -133,13 +126,6 @@
        <li>Observar que as informações sobre o evento foram publicadas de forma discreta, e dificultando o acesso do cliente para a compra de ingressos</li>
        <li>Não ter acesso aos comentários, sugestões ou reclamações que os clientes realizam sobre o evento.</li>
      </ul> </td>     
-<tr><td><b>Objetivos</b></td>
-     <td>
-     <ul>
-      <li> Ter disponível um site gratuito para divulgar os seus shows, sendo este canal muito acessado principalmente por adolescentes e adultos, de fácil uso, auto explicativo, e que atrai a atenção do usuário para a programação oferecida.   </li>
-     </ul></td>
-      <td><ul><li>Ter acesso a um site intuitivo, fácil de usar, gratuito ou de baixo custo para cadastrar os shows e eventos dos seus clientes; além disso, ter este evento divulgado num site muito acessado pela comunidade e que disponibilize um espaço seguro para pagamento de ingressos.  </li>
-     </ul> </td>
 <tr><td><b>Hobbies/História</b></td>
      <td>
      <ul>
