@@ -312,3 +312,12 @@
 
 ## Video sobre o projeto
 https://user-images.githubusercontent.com/80483432/158193078-0dcfd945-d72b-44a6-940e-e8d20cb7fd53.mp4
+
+## Wireframes
+![WhatsApp Image 2022-03-27 at 21 54 34 (1)](https://user-images.githubusercontent.com/86447935/161623849-948f3f4d-e9ee-4716-9713-4a0944feef4a.jpeg)
+![WhatsApp Image 2022-03-27 at 21 54 34 (2)](https://user-images.githubusercontent.com/86447935/161623851-d42cf8bf-24f5-4454-813b-2731fb7086da.jpeg)
+![WhatsApp Image 2022-03-27 at 21 54 34](https://user-images.githubusercontent.com/86447935/161623855-389ed31d-8c82-4b99-8d4f-f2ddfc0cc0fe.jpeg)
+![WhatsApp Image 2022-03-27 at 21 54 35 (1)](https://user-images.githubusercontent.com/86447935/161623857-8fd80ef5-b9bc-44b0-8a74-d3e4703f4ef6.jpeg)
+![WhatsApp Image 2022-03-27 at 21 54 35](https://user-images.githubusercontent.com/86447935/161623858-b773c258-7d6c-4129-be2e-8bd18a3df618.jpeg)
+
+
