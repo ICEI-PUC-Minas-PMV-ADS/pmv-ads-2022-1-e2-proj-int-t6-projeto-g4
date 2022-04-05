@@ -308,7 +308,8 @@
  </table>
 
 ## Diagrama de Casos de Uso
-![Casos de uso](https://user-images.githubusercontent.com/91073637/161845558-ff5c8e7c-5e67-4ecb-87c2-998f3dc5df97.png)
+![Casosdeuso](https://user-images.githubusercontent.com/91073637/161847755-6579558d-4b18-4828-b2db-39412df5b3a7.jpg)
+
 
 
 ## Video sobre o projeto
