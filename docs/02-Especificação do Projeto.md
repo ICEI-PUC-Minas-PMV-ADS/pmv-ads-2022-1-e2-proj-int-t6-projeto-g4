@@ -308,7 +308,8 @@
  </table>
 
 ## Diagrama de Casos de Uso
-![WhatsApp 2022-03-13 at 20 05 22](https://user-images.githubusercontent.com/80483432/158084994-9f16d142-aa8c-468f-927d-3a03b81241a9.jpeg)
+![Casos de uso](https://user-images.githubusercontent.com/91073637/161845558-ff5c8e7c-5e67-4ecb-87c2-998f3dc5df97.png)
+
 
 ## Video sobre o projeto
 https://user-images.githubusercontent.com/80483432/158193078-0dcfd945-d72b-44a6-940e-e8d20cb7fd53.mp4
