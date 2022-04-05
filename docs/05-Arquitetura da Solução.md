@@ -6,7 +6,7 @@ Definição de como o software é estruturado em termos dos componentes que faze
 
 ## Diagrama de Classes
 
-https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e2-proj-int-t6-projeto-g4/issues/4#issue-1193721174
+![Class Diagram0](https://user-images.githubusercontent.com/91221827/161859264-c7aa24a6-477b-4b98-a9bc-7e7e9595cea3.png)
 
 O diagrama de classes ilustra graficamente como será a estrutura do software, e como cada uma das classes da sua estrutura estarão interligadas. Essas classes servem de modelo para materializar os objetos que executarão na memória.
 
