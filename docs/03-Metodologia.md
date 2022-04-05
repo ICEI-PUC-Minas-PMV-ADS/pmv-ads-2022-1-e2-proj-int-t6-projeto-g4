@@ -1,15 +1,47 @@
 
 # Metodologia
 
-<span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a></span>
+A metodologia eleita pelo grupo é a Scrum. A metodologia Scrum é uma das metodologias ageis e tem como característica a flexibilidade nas decisões de desenvolvimento do software por conta da divisão das tarefas em <b>Sprints</b>.<br>
+Dessa forma fica decidido que o grupo, para o desenvolviment das atividades propostas, terá sprints semanais. Sendo o prazo suficiente para o desenvolvimento das funcionalidades do projeto, potencializando, desta forma, o trabalho em equipe e a evolução do produto, tendo como foco a potencialização na produção e o cumprimento dos prazos estabelecidos.<br>
 
-A metodologia contempla as definições de ferramentas utilizadas pela equipe tanto para a manutenção dos códigos e demais artefatos quanto para a organização do time na execução das tarefas do projeto. 
+## Relação de Ambientes de Trabalho 
+ 
+Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a relação dos ambientes com seu respectivo propósito é apresentada na tabela que se segue. 
+
+<table>
+ <thead>
+  <th>
+Ambiente 
+  </th>
+  <th>
+Plataforma
+
+  </th>
+  <th>
+Link de acesso 
+  </th>
+ </thead>
+ <tbody>
+  <td>Repositório de código fonte </td>
+  <td>GitHub </td>
+  <td>https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e2-proj-int-t6-projeto-g4  </td>
+  <tr><td><b>Documentação do projeto </b></td>
+      <td>Google.docs</td>
+      <td>https://docs.google.com/document/d/1z1fkUxMW35rLXXbT5kevD8mt1kMQ60_QO_EvD0p-5F8/edit </td></tr>
+   <tr><td>Gerenciamento do projeto</td>
+       <td>Github </td>
+     <td>https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e2-proj-int-t6-projeto-g4 </td>
+ </tbody>
+</table>
+
+
+
+
+
 
 ## Controle de Versão
 
-A ferramenta de controle de versão adotada no projeto foi o
-[Git](https://git-scm.com/), sendo que o [Github](https://github.com)
-foi utilizado para hospedagem do repositório.
+A ferramenta de controle de versão e hospedagem do repositório adotada no projeto foi o [Github](https://github.com). 
 
 O projeto segue a seguinte convenção para o nome de branches:
 
