@@ -163,16 +163,16 @@
     
    <tbody id="tbody">
      <td>Renato Vieira</td>
-     <td>Ter disponível um site gratuito sobre todas as programações culturais e de entretenimento.</td>
+         <td> Deseja ter acesso a uma aplicação com eventos centralizados. </td>
      <td>Encontrar o que fazer, seja dia de semana, seja fim de semana, mais rapidamente.</td>
    <tr><td>Patrícia Campos</td>
-       <td>Ter disponível um site gratuito ou de baixo custo para cadastrar a programação que se deseja divulgar para os clientes</td>
-       <td>Obter maior visibilidade, acarretando em um público maior no evento e maiores retornos financeiros.</td></tr>
+           <td> A  possibilidade de publicação de seu evento. </td>
+    <td>Obter maior visibilidade, acarretando em um público maior no evento e maiores retornos financeiros.</td></tr>|
    <tr><td>Luiza Antunes</td>
-       <td>Ter disponível um site gratuito para divulgar os seus shows</td>
+        <td> Possibilidade de divulgar seus shows com informações corretas.  </td>
        <td>Poder construir uma carreira no mundo da música, obtendo maior visibilidade com os eventos que participarei</td></tr>
    <tr><td>Fabiana Medeiros</td>
-       <td>Ter acesso a um site auto explicativo, fácil de usar, gratuito ou de baixo custo para cadastrar os shows e eventos dos meus clientes;</td>
+        <td> Poder visualizar avaliações e comentários de fãs e clientes.  </td>
        <td>Aumentar o público presente no evento, melhorando minha reputação como promotora de eventos</td></tr>
    </tbody>
   </table>
