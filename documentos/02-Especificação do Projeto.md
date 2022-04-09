@@ -217,8 +217,8 @@
    </tr>
    <tr>
     <td><b>RF-06</b></td>
-    <td>O site deve permitir ao usuário escolher seu método de pagamento. </td>
-    <td>Média</td>
+    <td>o site deve permitir que o usuário favorite ou arquive um ou mais eventos. </td>
+    <td>Média</td> 
    </tr>
    <tr>
     <td><b>RF-07</b></td>
