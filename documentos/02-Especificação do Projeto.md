@@ -204,21 +204,21 @@
    </tr>
    <tr>
     <td><b>RF-03</b></td>
-    <td>O site deve notificar o usuário quando algum evento ou atividade em sua área local ou região selecionada for divulgado</td>    <
-    <td>Média</td>
+    <<td>A aplicação deve notificar o usuário quando algum evento ou atividade em sua área local ou região selecionada for divulgado</td>    <
+td>Média</td>
    </tr>
    <tr>
     <td><b>RF-04</b></td>
-    <td>O site deve disponibilizar um campo para comentários e avaliacoes de cada evento para os usuarios. </td>
+   <td>A aplicação deve disponibilizar um campo para comentários e avaliações de cada evento para os usuários. </td>
     <td>Alta</td></tr>
    <tr>
      <td><b>RF-05</b></td>
-    <td>o site deve permitir que o usuário favorite ou arquive um ou mais eventos. </td>
+   <td>A aplicação deve permitir que o usuário favorite ou arquive um ou mais eventos. </td>
     <td>Média</td> 
    </tr>
    <tr>
     <td><b>RF-06</b></td>
-    <td>O site deve disponibilizar ao usuário horários de atividades/eventos.</td>
+ <td>A aplicação deve disponibilizar ao usuário horários e locais de atividades/eventos.</td>
     <td>Alta</td>
    </tr>
    <tr>
