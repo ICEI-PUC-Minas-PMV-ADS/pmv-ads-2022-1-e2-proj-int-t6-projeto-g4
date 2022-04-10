@@ -205,7 +205,11 @@
     <td><b>RF-02</b></td>
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         <td> A aplicação deve disponibilizar ao usuário um campo busca com filtro por data, hora e tipos eventos</td>
+=======
+    <td>O site deve disponibilizar ao usuário uma ferramenta de busca por atividades, eventos e localidades</td>
+>>>>>>> Stashed changes
 =======
     <td>O site deve disponibilizar ao usuário uma ferramenta de busca por atividades, eventos e localidades</td>
 >>>>>>> Stashed changes
@@ -218,7 +222,11 @@
     <td><b>RF-03</b></td>
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     <td>O site deve notificar o usuário quando algum evento ou atividade em sua área local ou região selecionada for divulgado</td>    <
+=======
+    <td>O site deve enviar mensagem ao usuário quando algum evento ou atividade em sua área local ou região selecionada for divulgado</td>
+>>>>>>> Stashed changes
 =======
     <td>O site deve enviar mensagem ao usuário quando algum evento ou atividade em sua área local ou região selecionada for divulgado</td>
 >>>>>>> Stashed changes
@@ -325,9 +333,13 @@
 ## Diagrama de Casos de Uso
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 ![Casosdeuso](https://user-images.githubusercontent.com/91073637/161847755-6579558d-4b18-4828-b2db-39412df5b3a7.jpg)
 
 
+=======
+![WhatsApp Image 2022-03-13 at 20 05 22](https://user-images.githubusercontent.com/80483432/158084994-9f16d142-aa8c-468f-927d-3a03b81241a9.jpeg)
+>>>>>>> Stashed changes
 =======
 ![WhatsApp Image 2022-03-13 at 20 05 22](https://user-images.githubusercontent.com/80483432/158084994-9f16d142-aa8c-468f-927d-3a03b81241a9.jpeg)
 >>>>>>> Stashed changes
