@@ -294,6 +294,7 @@ td>Média</td>
  </table>
 
 ## Diagrama de Casos de Us
+![Casos de uso](https://user-images.githubusercontent.com/91073637/162643642-ef2eb2b1-85b1-4578-8c79-584862c291ad.jpg)
 
 
 ## Video sobre o projeto
