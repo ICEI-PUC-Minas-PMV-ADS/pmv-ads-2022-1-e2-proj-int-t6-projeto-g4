@@ -15,6 +15,7 @@
 * Lúcia Raquel Ramos Berger
 * Aline Cândido
 * Maiquel Peres
+* Iago Goncalves
 
 ## Orientador
 
