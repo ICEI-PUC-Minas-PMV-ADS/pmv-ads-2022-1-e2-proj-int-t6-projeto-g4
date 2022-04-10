@@ -211,37 +211,23 @@
     <td><b>RF-04</b></td>
     <td>O site deve disponibilizar um campo para comentários e avaliacoes de cada evento para os usuarios. </td>
     <td>Alta</td></tr>
-    <tr><td><b>RF-05</b></td>
-    <td>O site deve informar ao usuário o local, faixa etária e valor do evento/atividade.</td>
-    <td>Alta</td>
-   </tr>
    <tr>
-    <td><b>RF-06</b></td>
+     <td><b>RF-05</b></td>
     <td>o site deve permitir que o usuário favorite ou arquive um ou mais eventos. </td>
     <td>Média</td> 
    </tr>
    <tr>
-    <td><b>RF-07</b></td>
+    <td><b>RF-06</b></td>
     <td>O site deve disponibilizar ao usuário horários de atividades/eventos.</td>
     <td>Alta</td>
    </tr>
    <tr>
+    <td><b>RF-07</b></td>
+  <td>A aplicação deve disponibilizar ferramentas para que o usuário possa compartilhar a página de um evento. </td>
+ <td>Alta</td>
+   </tr>
+   <tr>
     <td><b>RF-08</b></td>
-    <td>O site deve disponibilizar ferramentas para que o usuário possa solicitar ingressos de um evento. </td>
-    <td>Alta</td>
-   </tr>
-   <tr>
-    <td><b>RF-09</b></td>
-    <td>O site deve disponibilizar métodos de compartilhamento de usuários para outros usuários.   </td>
-    <td>Média</td>
-   </tr>
-    <tr>
-    <td><b>RF-10</b></td>
-    <td>O site deve disponibilizar ao usuário um campo reclamacoes sobre o evento. </td>
-    <td>Alta</td>
-   </tr>
-   <tr>
-    <td><b>RF-11</b></td>
     <td>Todos os eventos postados no site devem ter o mesmo padrao de fonte e tamanho. </td>
     <td>Alta</td>
    </tr>
