@@ -307,9 +307,7 @@
   </tbody>
  </table>
 
-## Diagrama de Casos de Uso
-![Casosdeuso](https://user-images.githubusercontent.com/91073637/161847755-6579558d-4b18-4828-b2db-39412df5b3a7.jpg)
-
+## Diagrama de Casos de Us
 
 
 ## Video sobre o projeto
