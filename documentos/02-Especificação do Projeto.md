@@ -194,17 +194,17 @@
 
   <tbody id="tbody">
    <td><b>RF-01</b></td>
-   <td>O site deve manter um cadastro privado e atualizado de seus usuários. </td>
+      <td>A aplicação  deve manter um cadastro privado e atualizado de seus usuários. </td>
    <td>Alta</td>
 
    <tr>
     <td><b>RF-02</b></td>
-    <td>O site deve disponibilizar ao usuário um campo busca com filtro por data, hora e tipos eventos</td>
+        <td> A aplicação deve disponibilizar ao usuário um campo busca com filtro por data, hora e tipos eventos</td>
     <td>Alta</td>
    </tr>
    <tr>
     <td><b>RF-03</b></td>
-    <td>O site deve notificar o usuário quando algum evento ou atividade em sua área local ou região selecionada for divulgado</td>
+    <td>O site deve notificar o usuário quando algum evento ou atividade em sua área local ou região selecionada for divulgado</td>    <
     <td>Média</td>
    </tr>
    <tr>
