@@ -8,13 +8,8 @@
  <table>
   <thead>
         <th></th>
-    <tr><td><b> <img src = "img/renato.jpeg" alt="drawing" width="100"/> </b></td>
         <th>Renato Vieira</th>
-     
-<th> <img src = "img/patricia.jpeg" alt="drawing" width="100"/> </th>
         <th>Patrícia Campos</th>
-     
-
 
   </thead>
 
@@ -53,11 +48,18 @@
      <td>
      <ul>
       <li>Gastar muito tempo procurando eventos interessantes.</li><br>
-      <li> Não ter a possibilidade de comentar ou dar sugestões sobre o evento.</li>
+      <li> Não ter a possibilidade de comentar ou dar sugestões sobre aplicativo.</li>
      </ul></td>
       <td><ul><li>Ter o seu evento divulgado com informações incorretas e discretas que não chamam a atenção do cliente;</li>
-       <li>Não ter acesso aos comentários, sugestões ou reclamações que os clientes realizam sobre o evento. </li>
+       <li>Conseguir listar os eventos.</li>
      </ul> </td>     
+<tr><td><b>Objetivos</b></td>
+     <td>
+     <ul>
+      <li> Ter disponível um site gratuito com todas as programações culturais e de entretenimento atualizado e de fácil acesso.  </li>
+     </ul></td>
+      <td><ul><li>Ter disponível um site gratuito ou de baixo custo para cadastrar a programação que se deseja divulgar para os clientes, sendo este canal muito acessado pela comunidade, de fácil uso, intuitivo, e que atrai a atenção do usuário para a programação oferecida. </li>
+     </ul> </td>
 <tr><td><b>Hobbies/História</b></td>
      <td>
      <ul>
@@ -79,13 +81,8 @@
  <table>
   <thead>
         <th></th>
-    <tr><td><b> <img src = "img/Fabiana Medeiros atual.jpg" alt="drawing" width="100"/> </b></td>
         <th>Luiza Antunes</th>
-     
-<th> <img src = "img/Fabiana Medeiros.jpg" alt="drawing" width="100"/> </th>
         <th>Fabiana Medeiros</th>
-     
-
 
   </thead>
 
@@ -132,6 +129,13 @@
        <li>Observar que as informações sobre o evento foram publicadas de forma discreta, e dificultando o acesso do cliente para a compra de ingressos</li>
        <li>Não ter acesso aos comentários, sugestões ou reclamações que os clientes realizam sobre o evento.</li>
      </ul> </td>     
+<tr><td><b>Objetivos</b></td>
+     <td>
+     <ul>
+      <li> Ter disponível um site gratuito para divulgar os seus shows, sendo este canal muito acessado principalmente por adolescentes e adultos, de fácil uso, auto explicativo, e que atrai a atenção do usuário para a programação oferecida.   </li>
+     </ul></td>
+      <td><ul><li>Ter acesso a um site intuitivo, fácil de usar, gratuito ou de baixo custo para cadastrar os shows e eventos dos seus clientes; além disso, ter este evento divulgado num site muito acessado pela comunidade e que disponibilize um espaço seguro para pagamento de ingressos.  </li>
+     </ul> </td>
 <tr><td><b>Hobbies/História</b></td>
      <td>
      <ul>
@@ -199,17 +203,25 @@
 
    <tr>
     <td><b>RF-02</b></td>
+<<<<<<< Updated upstream
         <td> A aplicação deve disponibilizar ao usuário um campo busca com filtro por data, hora e tipos eventos</td>
+=======
+    <td>O site deve disponibilizar ao usuário uma ferramenta de busca por atividades, eventos e localidades</td>
+>>>>>>> Stashed changes
     <td>Alta</td>
    </tr>
    <tr>
     <td><b>RF-03</b></td>
+<<<<<<< Updated upstream
     <td>O site deve notificar o usuário quando algum evento ou atividade em sua área local ou região selecionada for divulgado</td>    <
+=======
+    <td>O site deve enviar mensagem ao usuário quando algum evento ou atividade em sua área local ou região selecionada for divulgado</td>
+>>>>>>> Stashed changes
     <td>Média</td>
    </tr>
    <tr>
     <td><b>RF-04</b></td>
-    <td>O site deve disponibilizar um campo para comentários e avaliacoes de cada evento para os usuarios. </td>
+    <td>O site deve disponibilizar avaliações e comentários referente aos eventos, feitos por usuários já atendidos. </td>
     <td>Alta</td></tr>
     <tr><td><b>RF-05</b></td>
     <td>O site deve informar ao usuário o local, faixa etária e valor do evento/atividade.</td>
@@ -237,12 +249,7 @@
    </tr>
     <tr>
     <td><b>RF-10</b></td>
-    <td>O site deve disponibilizar ao usuário um campo reclamacoes sobre o evento. </td>
-    <td>Alta</td>
-   </tr>
-   <tr>
-    <td><b>RF-11</b></td>
-    <td>Todos os eventos postados no site devem ter o mesmo padrao de fonte e tamanho. </td>
+    <td>O site deve disponibilizar ao usuário um campo para comentários e avaliações. </td>
     <td>Alta</td>
    </tr>
   </tbody>
@@ -308,9 +315,13 @@
  </table>
 
 ## Diagrama de Casos de Uso
+<<<<<<< Updated upstream
 ![Casosdeuso](https://user-images.githubusercontent.com/91073637/161847755-6579558d-4b18-4828-b2db-39412df5b3a7.jpg)
 
 
+=======
+![WhatsApp Image 2022-03-13 at 20 05 22](https://user-images.githubusercontent.com/80483432/158084994-9f16d142-aa8c-468f-927d-3a03b81241a9.jpeg)
+>>>>>>> Stashed changes
 
 ## Video sobre o projeto
 https://user-images.githubusercontent.com/80483432/158193078-0dcfd945-d72b-44a6-940e-e8d20cb7fd53.mp4
