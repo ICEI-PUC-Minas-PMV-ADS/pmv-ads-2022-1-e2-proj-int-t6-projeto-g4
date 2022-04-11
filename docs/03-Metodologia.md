@@ -34,11 +34,6 @@ Link de acesso
  </tbody>
 </table>
 
-
-
-
-
-
 ## Controle de Versão
 
 A ferramenta de controle de versão e hospedagem do repositório adotada no projeto foi o [Github](https://github.com). 
@@ -58,6 +53,10 @@ etiquetas:
 - `enhancement`: nova funcionalidade acrescentada 
 - `feature`: uma nova funcionalidade precisa ser introduzida
 
+## Gestão de Código Fonte
+
+Para gestão do código fonte do software desenvolvido pela equipe, o grupo utiliza um processo baseado no Git Flow abordado por Vietro (2015), mostrado na Figura a seguir. Desta forma, todas as manutenções no código são realizadas em branches separados, identificados como Hotfix, Release, Develop e Feature. 
+
 ## Gerenciamento de Projeto
 
 ### Divisão de Papéis
@@ -69,17 +68,50 @@ A equipe utiliza metodologias ágeis, tendo escolhido o Scrum como base para def
 3.   	Equipe de Desenvolvimento: Pedro Santos; Luísa Valadares;
 4.   	Equipe de Design: Iago Gonçalves; Maiquel Peres; 
 
-
-### Ferramentas
-
-As ferramentas empregadas no projeto são:
-
-- Repositório de código fonte: https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e2-proj-int-t6-projeto-g4 
-- Ferramentas de comunicação: Microsoft Teamns; WhatsApp.
-- Ferramentas de desenho de tela (_wireframing_): Fygma; Axure. 
-- Ferramentas de desenho de gráficos: LucidChart; PowerPoint.
-
-> Ferramenta de Gerenciamento do projeto:
-https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e2-proj-int-t6-projeto-g4 
+Para organização e distribuição das tarefas do projeto, a equipe está utilizando o GitHub Project estruturado com as seguintes listas:  
  
+1.   	Product Backlog: Todas as atividades identificadas no decorrer do projeto deve ser incorporadas a esta lista. 
+2.   	To Do: Esta lista representa o Sprint Backlog. Este é o Sprint atual que estamos trabalhando. 
+3.   	In Progress: Quando uma tarefa tiver sido iniciada, ela é movida para cá. 
+4.   	Done: Tarefas concluídas.
+
+### Plano de Sprints
+
+<table>
+ <thead>
+  <th>
+Sprint 
+  </th>
+  <th>
+Tarefa
+
+  </th>
+  <th>
+Descrição da Tarefa
+  </th>
+  <th>
+Semana
+  </th>
+ </thead>
+ <tbody>
+  <td>1</td>
+  <td>Tela Inicial Aplicação FrontEnd </td>
+  <td>Estilizar, adicionar botões necessários e responsivos </td>
+  <td>1</td>
+  <tr><td>1</td>
+      <td>Tela de Cadastro usuários FrontEnd</td>
+      <td>Estilizar, adicionar botões necessários e responsivos</td>
+  <td>1</td></tr>
+   <tr><td>2</td>
+       <td>Tela de login usuários FrontEnd </td>
+     <td>Estilizar, adicionar botões necessários e responsivos </td>
+    <td>2</td>
+  <tr><td>2</td><td>Tela de cadastro de eventos FrontEnd</td><td>Estilizar, adicionar botões necessários e responsivos</td><td>2</td></tr>
+  <tr><td>3</td><td>Tela de busca de eventos FrontEnd</td><td>Estilizar, adicionar botões necessários e responsivos</td><td>3</td></tr>
+  <tr><td>3</td><td>Tela de Especificação de eventos FrontEnd</td><td>Estilizar, adicionar botões necessários e responsivos</td><td>3</td></tr>
+  <tr><td>4</td><td>Desenvolvimento Banco de dados SQL</td><td>Preparar banco de dados para integração à aplicação</td><td>4</td></tr>
+  <tr><td>4</td><td>Integração SQL à aplicação</td><td>Integrar backEnd da aplicação ao FrontEnd</td><td>4</td></tr>
+  <tr><td>5</td><td>Integrar API Correios</td><td>Integrar as funcionalidades à API</td><td>5</td></tr>
+ </tbody>
+</table>
 
