@@ -31,3 +31,6 @@ Diante da demanda apresentada e da necessidade de acesso rápido e fácil a info
 O público alvo da aplicação a ser desenvolvida são pessoas de qualquer faixa etária que consomem e realizam eventos culturais. 
 <p>Pessoas que possuem interesse na diversidade de eventos culturais que ocorrem na cidade e, por falta de tempo, não conseguem buscar minuciosamente pelas várias plataformas já existentes; além de promoters e artistas que precisam divulgar detereminado evento, com informações sobre data, horário, local e tipo de evente, de modo a atrair o maior número de clientes.</p>
 <p> Assim, ao centralizar os eventos culturais da cidade em uma única plataforma, agilizaria o processo para este público específico. </p>
+
+## Referências Bibliográficas
+https://www.istoedinheiro.com.br/relatorio-do-ecad-mostra-efeito-da-pandemia-no-mercado-de-shows/
