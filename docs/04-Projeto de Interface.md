@@ -1,8 +1,6 @@
 # Backlog do Produto
 
-## Diagrama de Classes
 
-![Backlog do Produto] (
 
 
 
