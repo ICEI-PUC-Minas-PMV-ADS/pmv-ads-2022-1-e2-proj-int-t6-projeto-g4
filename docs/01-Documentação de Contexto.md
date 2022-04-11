@@ -34,6 +34,9 @@ O público alvo da aplicação a ser desenvolvida são pessoas de qualquer faixa
 
 ## Referências Bibliográficas
 [1] Site Mundo Educação, disponível em:<https://mundoeducacao.uol.com.br/geografia/as-redes-comunicacao-no-mundo-globalizado.htm> acessado em 13/03/2022
+
 [2] Site Consumidor Moderno, disponível em: <https://www.consumidormoderno.com.br/2016/12/16/brasileiro-nao-tempo-relaxar-estudo/> acessado em 10/03/2022
+
 [3] Site Mooble, disponível em: <https://www.moblee.com.br/aplicativo-de-eventos/> acessado em 09/03/2022.
+
 https://www.istoedinheiro.com.br/relatorio-do-ecad-mostra-efeito-da-pandemia-no-mercado-de-shows/
