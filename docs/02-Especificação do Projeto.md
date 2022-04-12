@@ -125,12 +125,12 @@
      <td>
      <ul>
       <li>Ter o seu evento divulgado com informações incorretas e discretas que não chamam a atenção do cliente</li>
-      <li>Não conseguir uma comunicação rápida e eficiente com a equipe do site que divulga o seu evento</li>
-      <li>Não ter acesso aos comentários, sugestões que os seus fãs divulgam.</li>
+      <li>informações práticas e eficiente apresentadas em um lugar, para entender os eventos que ocorrem na sua região</li>
+      <li>Não posssuir um canal excluisivo que apresente os eventos que possuem acessibildiade, por ser uma pessoa surda deseja um lugar mais claro e objetivo com as informações relevantes.</li>
      </ul></td>
       <td><ul><li>Encontrar limitação de dados a serem publicados para realizar uma melhor propaganda do evento</li>
-       <li>Observar que as informações sobre o evento foram publicadas de forma discreta, e dificultando o acesso do cliente para a compra de ingressos</li>
-       <li>Não ter acesso aos comentários, sugestões ou reclamações que os clientes realizam sobre o evento.</li>
+       <li>Observar que as informações sobre o evento foram publicadas de forma discreta, </li>
+       <li>Difulcade em receber a sugestões do público que participou do evento e receber tudo na sua caixa de e-mail.</li>
      </ul> </td>     
 <tr><td><b>Hobbies/História</b></td>
      <td>
