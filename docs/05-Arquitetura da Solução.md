@@ -10,6 +10,8 @@ Definição de como o software é estruturado em termos dos componentes que faze
 
 O diagrama de classes ilustra graficamente como será a estrutura do software, e como cada uma das classes da sua estrutura estarão interligadas. Essas classes servem de modelo para materializar os objetos que executarão na memória.
 
+Neste Diagrama de Classes é possível observar as seguintes informações: o site Simbora possui zero ou n, vários (0..*) usuários e um (1) usuário pertence a 1 site Simbora. As subclasses PromoterArtista e Cliente, cada uma com seus atributos específicos, herdam os atributos da superclasse Usuário.Já a classe Evento está com relação de associação com a classe Simbora!, sendo que a classe Simbora! divulga zero ou n, vários (0..*) Eventos e um (1) Evento pertence a classe Simbora!. Um (1) Evento tem 1 ou vários (1..*) Convites, mas 1 Convite só pode ser de 1 Evento, e 1 Convite não existe sem 1 Evento por isto o losango preenchido, sendo uma relação de Agregação por Composição. Um (1) cliente pode ter zero a vários convites (0..*), mas 1 convite só pode ser de 1 cliente, e a classe Convite não existe sem a Classe Cliente, sendo esta também uma relação de Agregação por Composição. O Cliente escolhe participar de 1 Evento e assim é gerado 1 convite. 
+
 As referências abaixo irão auxiliá-lo na geração do artefato “Diagrama de Classes”.
 
 > - [Diagramas de Classes - Documentação da IBM](https://www.ibm.com/docs/pt-br/rational-soft-arch/9.6.1?topic=diagrams-class)
