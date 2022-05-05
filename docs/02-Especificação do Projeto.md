@@ -194,7 +194,7 @@
 
   <tbody id="tbody">
    <td><b>RF-01</b></td>
-      <td> A aplicação necessita por meio de login. Permitindo  o cadastro e o acesso de usuários cadastrados. E ainda permitindo recuperar a senha em caso de perda. </td>
+      <td> Para acesso a aplicação o usuário necessita por meio de login. Permitindo o cadastro e o acesso de usuários já cadastrados. E ainda permitindo recuperar a senha em caso de perda. </td>
    <td>Alta</td>
 
    <tr>
