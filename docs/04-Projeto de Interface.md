@@ -4,7 +4,11 @@
 
 <span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a></span>
 
-Vão ser apresentadas as telas da aplicação, o que será feito por meio de tópicos, conforme descrito a seguir:
+SIMBORA
+
+Conforme descrito abaixo,  vai ser apresentados as telas de aplicação, o porque de escolher as cores, como também todo o fluxograma.
+
+*observação:* O link que consta o acesso ao fluxograma consta no final.
 
 Tela - introdução, login, perfil/busca, grupo, evento/inscrito. 
 
