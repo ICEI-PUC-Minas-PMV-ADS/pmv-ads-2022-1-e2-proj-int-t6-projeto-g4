@@ -18,7 +18,8 @@ Inicialmente, podemos analisar a construção da proposta. Como objetivamos apre
 
 “O roxo ainda representa a imagem do sucesso, da nobreza e da riqueza.”
 
-# Cor Salmão
+# Cor Salmão 
+FF7575
 
 Tem como significado a cor salmão, além do mencionado,  transmite por meio da  sua  tonalidade um senso de abundância e também incentiva a interação dentro de um espaço. Sentimento ideal para quem deseja ir em um evento. A aplicação SIMBORA, tem como proposta divulgar e instigar as pessoas valorizarem a cultura. 
 
@@ -28,7 +29,8 @@ Assim, segue abaixo a demonstração das paletas de cores com base no que esta s
 
   Salmão : ![salmão](https://user-images.githubusercontent.com/84060551/160533947-438b9ff0-d129-4bb6-a65c-ad97a25dccde.png)
   
-# Cor Púrpura   
+# Cor Púrpura  
+C68585 
 
 A cor Púrpura, conforme a fase 1 do nosso trabalho, introduão aborda muito a questão social um dos motivos da criação di SIMBORA. Como a cor púpura seguindo o estudo das cores elas carrega consigo um ar social e humanitário. 
 
