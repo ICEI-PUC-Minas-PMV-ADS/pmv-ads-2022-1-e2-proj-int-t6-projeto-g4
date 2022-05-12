@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cadastrar Eventos</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <form class="form"action="#">
+<div class="cardbr">
+    <div class="cardtop"> 
+        <img class="imglogin"src="img/avatar.jpeg" alt="">
+        <h2 class="titulo">Cadastro de Eventos</h2>
+        <p> Gerencie seu Evento</p>
+    </div>
+    <div class="card-group">
+        <label>Email</label>
+        <input type="email" name="Email" placeholder= "Digite seu Email" required>
+    </div>
+    <div class="card-group">
+        <label>Evento</label>
+        <input type="text" name="texto" placeholder= "Nome do Evento"required>
+    </div>
+    <div class="card-group">
+        <label>Descrição do Evento</label>
+        <input type="text" name="texto" placeholder="Descrição"required>
+    </div>
+    <div class="card-group">
+        <label for="categorias">Escolha uma categoria</label>
+        <select name="categorias" id="categorias">
+            <option value="teatro">Teatro</option>
+            <option value="dancaA"> Dança</option>
+            <option value="musica">Música</option>
+            <option value="cinema">Cinema</option>
+            <option value="literatura">Literatura</option>
+            <option value="pintura">Exposições</option>
+        </select>
+      <br><br> <div class="card-group">
+            <label for="dataehr">Data e Hora do Evento</label>
+           <input type="datetime-local" name="dataevento" id="davaevento" required>
+           </div>
+           <div class="card-group">
+            <label>Local do Evento</label>
+            <input type="text" name="texto" placeholder="Endereço"required>
+        </div>
+        <div class="card-group">
+            <label for="meuarquivo">Selecione um arquivo</label>
+            <input type="file" name="meuarquivo"required><br><br>
+        </div>
+    </div>
+    <div class="card-group">
+        <label><input type="checkbox"> Lembre-me</label>
+    </div>
+    <div class="card-group btn">
+        <button type="submit">Cadastrar Evento</button>
+    </div>
+     </div>
+    </form>
+    
+</body>
+</html>
