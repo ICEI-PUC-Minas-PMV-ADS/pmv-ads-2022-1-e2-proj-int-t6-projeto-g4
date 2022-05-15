@@ -1,4 +1,4 @@
-# Plano de Testes de Software
+# Plano de Testes do Software Simbora 
  
 Faremos os testes Ponta a Ponta a fim de evidenciar todos os recursos do site. Os requisitos para realização dos testes de software são:
 
@@ -13,10 +13,10 @@ Os testes funcionais a serem realizados no aplicativo são descritos a seguir.
 Os testes funcionais a serem realizados no aplicativo são descritos a seguir. 
 
 
-| CASO DE TESTE               | CT-01 –  Comentários e avaliações                                |
+| CASO DE TESTE               | CT-01 –  Avaliação de login                              |
 |-----------------------------|-----------------------------------------------------------------------------------|
-| Requisitos associados       | O site deve disponibilizar avaliações e comentários referente aos eventos, feitos por usuários já atendidos. |
-| Objetivo do teste           | Averiguar se é possível fazer avaliações após o comparecimento ao evento |
+| Requisitos associados       | RF-001 - A página inicial da aplicação Simbora necessita fornecer ao usuário fazer login, com issoa conseguindo se cadastrar ou alterar sua senha. |
+| Objetivo do teste           | Login: Preenchendo com os seus dados pessoais o email e senha. Permitir que o usuário acesse a plataforma através do login. |
 | Passos                      | Acessar o site, logar na conta e tentar fazer a avaliação do evento |
 | Critérios de êxito          | DAs avaliações conseguem ser escritas e visualizadas pelo usuário normalmente |
 
