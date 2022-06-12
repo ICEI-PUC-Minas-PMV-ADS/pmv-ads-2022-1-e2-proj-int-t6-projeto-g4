@@ -39,9 +39,7 @@ As referências abaixo irão auxiliá-lo na geração do artefato “Esquema Rel
 
 ## Tecnologias Utilizadas
 
-Descreva aqui qual(is) tecnologias você vai usar para resolver o seu problema, ou seja, implementar a sua solução. Liste todas as tecnologias envolvidas, linguagens a serem utilizadas, serviços web, frameworks, bibliotecas, IDEs de desenvolvimento, e ferramentas.
-
-Apresente também uma figura explicando como as tecnologias estão relacionadas ou como uma interação do usuário com o sistema vai ser conduzida, por onde ela passa até retornar uma resposta ao usuário.
+Para a conclusão do trabalho, foram utilizados a IDE Visual Studio Code 2019, utilizando C#, SQL, HTML e CSS. Utilizmos também o Entity Framework, de modo a arquiteturar um projeto em padrão MVC.
 
 ## Hospedagem
 
