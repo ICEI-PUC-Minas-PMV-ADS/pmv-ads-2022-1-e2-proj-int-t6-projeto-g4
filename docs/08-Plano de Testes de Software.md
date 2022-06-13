@@ -18,10 +18,10 @@ Os testes funcionais a serem realizados no aplicativo são descritos a seguir.
 
 | Caso de Teste               | CT-02 –  Avaliação de login                              |
 |-----------------------------|-----------------------------------------------------------------------------------|
-|**Requisitos associados**      | RF-002 - A página inicial da aplicação Simbora necessita fornecer ao usuário fazer login, com issoa conseguindo se cadastrar ou alterar sua senha. |
+|**Requisitos associados**      | RF-002 - A página da aplicação Simbora necessita fornecer ao usuário fazer login, com issoa conseguindo se cadastrar ou alterar sua senha. |
 | **Objetivo do teste**           | Login: Preenchendo com os seus dados pessoais o email e senha. Permitir ao usuário acesso da plataforma por meio do login. |
 | **Passos**                      | 	1) Acessar o Navegador 2) Informar o endereço do Site web 3) Entrar na página do login 4) Preencher os campos com seus dados pessoais 5) Clicar no botão logar. |
-| **Critérios de êxito**          | O objetivo se apresentou com êxito no processo de logar.
+| **Critérios de êxito**          | O login foi feito com sucesso.
 
 | Caso de Teste               | CT-03 –  Cadastro de Eventos                              |
 |-----------------------------|-----------------------------------------------------------------------------------|
