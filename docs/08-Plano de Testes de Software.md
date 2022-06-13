@@ -33,7 +33,7 @@ Os testes funcionais a serem realizados no aplicativo são descritos a seguir.
 | Caso de Teste               | CT-04 –  Cadastro de Eventos                              |
 |-----------------------------|-----------------------------------------------------------------------------------|
 |**Requisitos associados**      | RF-004 -  Ser capaz de dar uma sugestão ao aplicativo  |
-| **Objetivo do teste**           | L. |
+| **Objetivo do teste**           | Cadastrar eventos |
 | **Passos**                      | 	1) Acessar o Navegador 2) Informar o endereço do Site web 3) Entrar na página de sugestão  4) Preencher os campos com seus dados pessoais 5) Clicar no botão "Deixar feedback" |
 | **Critérios de êxito**          |A sugestão foi dada com sucesso. Aparecer a tela com todas as sugestões cadastradas         |
 
