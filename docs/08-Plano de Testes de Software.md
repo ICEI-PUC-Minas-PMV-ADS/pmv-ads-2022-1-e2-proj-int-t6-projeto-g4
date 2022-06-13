@@ -30,7 +30,7 @@ Os testes funcionais a serem realizados no aplicativo são descritos a seguir.
 | **Passos**                      | 	1) Acessar o Navegador 2) Informar o endereço do Site web 3) Entrar na página de cadastro de eventos 4) Preencher os campos com seus dados pessoais 5) Clicar no botão "Criar evento" |
 | **Critérios de êxito**          | O evento foi cadastrado com sucesso. Aparecer a tela com todos os eventos cadastrados.           |
 
-| Caso de Teste               | CT-04 –  Cadastro de Eventos                              |
+| Caso de Teste               | CT-04 – Deixar feedback                           |
 |-----------------------------|-----------------------------------------------------------------------------------|
 |**Requisitos associados**      | RF-004 -  Ser capaz de dar uma sugestão ao aplicativo  |
 | **Objetivo do teste**           | Cadastrar eventos |
